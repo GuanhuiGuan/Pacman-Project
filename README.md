@@ -5,7 +5,7 @@ A Pacman environment is developed and algorithms like Approximate Q Learning are
 
 I will upload the code after the course is graded. 
 
-Teammates: Jiahao Li, Jingyi Qian, Yuekun Guo, Qiao Zhang
+Teammates: Guanhui Guan(me), Jiahao Li, Jingyi Qian, Yuekun Guo, Qiao Zhang
 
 Refs:
 
